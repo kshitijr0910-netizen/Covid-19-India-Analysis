@@ -49,19 +49,7 @@ Example:<img width="502" height="311" alt="Screenshot 2026-07-06 220620" src="ht
 
 [Covid Dashboard.xlsx](https://github.com/user-attachments/files/29711621/Covid.Dashboard.xlsx)
 
-```text
-images/dashboard.png
-```
 
-## Future Improvements
-
-* Automatic data refresh
-* Power Query integration
-* Power BI version
-* Monthly trend analysis
-* Interactive filtering with additional slicers
-
-## Author
 
 **Kshitij Ranchalwar**
 
@@ -69,4 +57,4 @@ GitHub:https://github.com/kshitijr0910-netizen
 
 ---
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
+If you found this project useful, consider giving it a 
