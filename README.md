@@ -57,4 +57,4 @@ GitHub:https://github.com/kshitijr0910-netizen
 
 ---
 
-If you found this project useful, consider giving it a 
+If you found this project useful, consider giving it a *
